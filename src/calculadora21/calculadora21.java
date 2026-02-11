@@ -1,6 +1,8 @@
 package calculadora21;
 /** Clase calculadora para sumar,restar,multiplicar y dividir
 autor Raul
+ * @since 2026
+ * @see java.lang.Math
 */
 public class calculadora21 {
 	
