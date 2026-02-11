@@ -1,5 +1,7 @@
 package calculadora21;
-
+/** Clase calculadora para sumar,restar,multiplicar y dividir
+autor Raul
+*/
 public class calculadora21 {
 	
  public int sumar(int a, int b) {
